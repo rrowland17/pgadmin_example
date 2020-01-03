@@ -1,0 +1,41 @@
+stat_id,stat_name,amount
+0,Total Points Per Game,31.3
+1,Total Points,375
+2,Total Touchdowns,47
+3,1st Downs,257
+4,Total 1st downs,133
+5,Rushing 1st downs,103
+6,Passing 1st downs,21
+7,1st downs by penalty,81-195
+8,3rd down efficiency,41.54
+9,3rd down %,15-Sep
+10,4th down efficiency,60
+11,4th down %,191-346
+12,Passing,2436
+13,Comp-Att,7
+14,Net Passing Yards,187.4
+15,Yards Per Pass Attempt,18
+16,Net Passing Yards Per Game,11
+17,Passing Touchdowns,32--204
+18,Interceptions,556
+19,Sacks-Yards Lost,2569
+20,Rushing,4.6
+21,Rushing Attempts,197.6
+22,Rushing Yards,26
+23,Yards Per Rush Attempt,934
+24,Rushing Yards Per Game,5005
+25,Rushing Touchdowns,385
+26,Offense,26-572
+27,Total Offensive Plays,22
+28,Total Yards,28-235
+29,Yards Per Game,8.4
+30,Returns,16-300
+31,Kickoffs: Total,18.8
+32,Average Kickoff Return Yards,41.1
+33,Punt: Total,68-2906
+34,Average Punt Return Yards,15-20
+35,INT: Total,0
+36,Average Interception Yards,121-972
+37,Kicking,0:00
+38,Net Average Punt Yards,17-9
+39,Punt: Total Yards,0
